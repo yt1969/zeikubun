@@ -1,0 +1,4 @@
+admin.product.zei_kubun: 税区分
+admin.product.product_csv.zei_kubun_col: 税区分
+admin.product.product_csv.zei_kubun_description: '商品の税区分を指定します。 0:税抜 1:税込 未指定の場合、0として扱います。'
+admin.product.price: 価格(税込)↲
